@@ -1,0 +1,3 @@
+D:\Mes Projets\desk\C#\GenieLogicielL12018-2019-master\GestionPersonnes\GestionPersonneGUI\obj\Release\GestionPersonneGUI.csproj.AssemblyReference.cache
+D:\Mes Projets\desk\C#\GenieLogicielL12018-2019-master\GestionPersonnes\GestionPersonneGUI\obj\Release\GestionPersonneGUI.csproj.SuggestedBindingRedirects.cache
+D:\Mes Projets\desk\C#\GenieLogicielL12018-2019-master\GestionPersonnes\GestionPersonneGUI\obj\Release\GestionPersonneGUI.exe.config
